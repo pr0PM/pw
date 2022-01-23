@@ -7,4 +7,4 @@
     Referrer-Policy = "same-origin"
     Content-Security-Policy = "script-src 'self' https://cdn.simplecss.org"
     Strict-Transport-Security = "max-age=2592000; includeSubDomains; preload"
-    Permissions-Policy = "geolocation=(self "https://pr0pm.in")"
+    Permissions-Policy = 'geolocation=(self "https://pr0pm.in")'
