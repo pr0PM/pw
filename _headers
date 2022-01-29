@@ -3,6 +3,5 @@
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "same-origin"
-    Content-Security-Policy = "script-src 'self' https://cdn.simplecss.org"
     Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
     Permissions-Policy = 'geolocation=(self "https://pr0pm.in")'
