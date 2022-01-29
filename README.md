@@ -5,3 +5,4 @@
 - random stuff i'll add
 
 won't be using a site generator for no reason
+might create a custom one later when needed
