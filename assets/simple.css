@@ -78,7 +78,7 @@
   
   header p {
     max-width: 40rem;
-    margin: 1rem auto;
+    /* margin: 1rem auto; */
   }
   
   /* Add a little padding to ensure spacing is correct between content and nav */
