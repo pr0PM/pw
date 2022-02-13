@@ -5,4 +5,4 @@
     Referrer-Policy: same-origin
     Strict-Transport-Security: max-age=31536000; includeSubDomains
     Permissions-Policy: 'geolocation=(self "https://pr0pm.in")'
-    Content-Security-Policy: default-src 'self'; script-src static.cloudflareinsights.com; connect-src cloudflareinsights.com
+    Content-Security-Policy: script-src static.cloudflareinsights.com; connect-src cloudflareinsights.com
